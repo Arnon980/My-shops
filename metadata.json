@@ -1,0 +1,6 @@
+{
+  "name": "ຮ້ານຂາຍແພງ",
+  "description": "ຮ້ານຂາຍແພງ - Premium E-commerce Application with interactive shopping cart, categories, and checkout system for the Lao market.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
